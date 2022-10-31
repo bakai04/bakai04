@@ -8,12 +8,12 @@
 
 <h5 align="center">
     <code>
-        <a href="https://www.linkedin.com/in/talgat-tairov-402a0a1aa/" title="LinkedIn Profile">
+        <a href="https://www.linkedin.com/in/%D0%B1%D0%B0%D0%BA%D0%B0%D0%B9-%D0%B6%D0%BE%D0%BB%D0%B4%D0%BE%D1%88%D0%BE%D0%B2-7b08b8231/" title="LinkedIn Profile">
             <img width="22" src="images/linkedin.svg"> 
             LinkedIn
         </a>
         &nbsp;
-        <a href="https://t.me/slice312">
+        <a href="https://t.me/JoldoshovBakai">
             <img width="22" src="images/telegram.png">
             Telegram
         </a>
@@ -21,13 +21,11 @@
 </h5>
 <br>
 <p align="center">
-    Hi, I'm Talgat Tairov, Fullstack Developer & from Kyrgyzstan
+    Hi, I'm Joldoshov Bakai, Frontend Developer & from Kyrgyzstan
     <br>
     💻 I love writing code and learn anythings about it
     <br>
-    🌱 Now I mainly do front-end development and research <a href="https://feature-sliced.design">Feature-Sliced Design</a> methodology
-    <br>
-    📫 How to reach me: <a href="mailto: tairovtalgat@gmail.com">tairovtalgat@gmail.com</a>
+    📫 How to reach me: <a href="mailto: joldoshovbakai04@gmail.com">joldoshovbakai04@gmail.com</a>
     <!--  TODO: about feature sliced design -->
 </p>
 
@@ -38,14 +36,11 @@
 ## 🛠️ My favorite tools
 ### 👨‍💻 Programming and markup languages
 <p>
-    <a href="https://github.com/search?q=user%3Aslice312+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aslice312+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aslice312+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aslice312+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aslice312+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aslice312+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/bakai04?tab=repositories&q=&type=&language=javascript&sort="><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3Aslice312+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3Aslice312+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+
 </p>
 
 ### 🧰 Frameworks and libraries
@@ -106,10 +101,6 @@
 
 ### 🗄️ Databases and cloud hosting
 <p>
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
-    <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)">
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
@@ -128,21 +119,21 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats-slice312.vercel.app/api/top-langs/?username=slice312&layout=compact&count_private=true)](https://github.com/slice312/github-readme-stats)
+[![Top Langs](https://github-readme-stats-slice312.vercel.app/api/top-langs/?username=bakai04&layout=compact&count_private=true)](https://github.com/slice312/github-readme-stats)
 
 ## 📊 Github stats
 <details> 
     <summary>💻 GitHub Profile Stats</summary>
     <div align=center>
       <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-        <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=slice312&theme=react&border=61dafb&hide_border=true" alt="slice312" />
+        <img align="left" width=390 src="https://streak-stats.demolab.com?user=bakai04&theme=windows-dark&locale=ru" alt="bakai04" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=slice312&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <a href="https://git.io/streak-stats" title="Go to Source">
+        <img align="right" width=390 src="https://streak-stats.demolab.com/?user=bakai04"/>
     </a>
     </div>
     <br>
     <div align=center>
-      <img src="https://activity-graph.herokuapp.com/graph?username=slice312&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+      <img src="https://streak-stats.demolab.com/?user=DenverCoder1" width="100%"/>
     </div>
 </details>
