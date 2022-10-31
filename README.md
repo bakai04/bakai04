@@ -127,9 +127,9 @@
     <div align=center>
       <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
         <img align="left" width=390 src="https://streak-stats.demolab.com?user=bakai04&theme=windows-dark&hide_border=true&border_radius=6&locale=ru" alt="bakai04" />
-    </a>
+        </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=bakai04&show_icons=true&theme=dark
+        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=bakai04&show_icons=true&theme=transparent
 "/>
     </a>
     </div>
