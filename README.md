@@ -36,65 +36,65 @@
 ## 🛠️ My favorite tools
 ### 👨‍💻 Programming and markup languages
 <p>
-    <a href="https://github.com/search?q=user%3bakai04+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3bakai04+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Abakai04+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Abakai04+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/bakai04?tab=repositories&q=&type=&language=javascript&sort="><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3bakai04+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Abakai04+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 
 </p>
 
 ### 🧰 Frameworks and libraries
 
 <p>
-    <a href="https://github.com/topics/dotnet?q=user%3bakai04">
+    <a href="https://github.com/topics/dotnet?q=user%3Abakai04">
         <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white">
     </a>
-    <a href="https://github.com/topics/react?q=user%3bakai04">
+    <a href="https://github.com/topics/react?q=user%3Abakai04">
         <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
     </a>
-    <a href="https://github.com/topics/nexjs?q=user%3bakai04">
+    <a href="https://github.com/topics/nexjs?q=user%3Abakai04">
         <img alt="Next.js" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white">
     </a>
-    <a href="https://github.com/topics/react-native?q=user%3bakai04">
+    <a href="https://github.com/topics/react-native?q=user%3Abakai04">
         <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB">
     </a>
-    <a href="https://github.com/topics/redux?q=user%3bakai04">
+    <a href="https://github.com/topics/redux?q=user%3Abakai04">
         <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white">
     </a>
-    <a href="https://github.com/topics/react-query?q=user%3bakai04">
+    <a href="https://github.com/topics/react-query?q=user%3Abakai04">
         <img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?logo=react%20query&logoColor=white">
     </a>
-    <a href="https://github.com/topics/expo?q=user%3bakai04">
+    <a href="https://github.com/topics/expo?q=user%3Abakai04">
         <img alt="Expo" src="https://img.shields.io/badge/expo-1C1E24?logo=expo&logoColor=#D04A37">
     </a>
-    <a href="https://github.com/topics/nodejs?q=user%3bakai04">
+    <a href="https://github.com/topics/nodejs?q=user%3Abakai04">
         <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
     </a>
-    <a href="https://github.com/topics/expressjs?q=user%3bakai04">
+    <a href="https://github.com/topics/expressjs?q=user%3Abakai04">
         <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
     </a>
-    <a href="https://github.com/topics/nestjs?q=user%3bakai04">
+    <a href="https://github.com/topics/nestjs?q=user%3Abakai04">
         <img alt="Nest.js" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white">
     </a>
-    <a href="https://github.com/topics/angularjs?q=user%3bakai04">
+    <a href="https://github.com/topics/angularjs?q=user%3Abakai04">
         <img alt="Angular.js" src="https://img.shields.io/badge/angular.js-%23E23237.svg?logo=angularjs&logoColor=white">
     </a>
-    <a href="https://github.com/topics/jest?q=user%3bakai04">
+    <a href="https://github.com/topics/jest?q=user%3Abakai04">
         <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?logo=jest&logoColor=white">
     </a>
-    <a href="https://github.com/topics/sass?q=user%3bakai04">
+    <a href="https://github.com/topics/sass?q=user%3Abakai04">
         <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white">
     </a>
-    <a href="https://github.com/topics/styled-components?q=user%3bakai04">
+    <a href="https://github.com/topics/styled-components?q=user%3Abakai04">
         <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white">
     </a>
-    <a href="https://github.com/topics/mui?q=user%3bakai04">
+    <a href="https://github.com/topics/mui?q=user%3Abakai04">
         <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?logo=mui&logoColor=white">
     </a>
-    <a href="https://github.com/topics/tailwind?q=user%3bakai04">
+    <a href="https://github.com/topics/tailwind?q=user%3Abakai04">
         <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
     </a>
-    <a href="https://github.com/topics/telegram?q=user%3bakai04">
+    <a href="https://github.com/topics/telegram?q=user%3Abakai04">
         <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white">
     </a>
 </p>
