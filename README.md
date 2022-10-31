@@ -126,15 +126,15 @@
     <summary>💻 GitHub Profile Stats</summary>
     <div align=center>
       <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-        <img align="left" width=390 src="https://streak-stats.demolab.com?user=bakai04&theme=windows-dark&hide_border=true&border_radius=6&locale=ru" alt="bakai04" />
+        <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=bakai04&theme=react&border=61dafb&hide_border=true" alt="bakai04" />
         </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=bakai04&show_icons=true&theme=transparent
+        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=bakai04&show_icons=true&theme=react&border_color=61dafb&hide_border=true
 "/>
     </a>
     </div>
     <br>
     <div align=center>
-      <img src="https://streak-stats.demolab.com/?user=DenverCoder1" width="100%"/>
+      <img src="https://activity-graph.herokuapp.com/graph?username=bakai04&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
     </div>
 </details>
